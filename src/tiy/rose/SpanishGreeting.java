@@ -3,7 +3,7 @@ package tiy.rose;
 /**
  * Created by RdDvls on 8/29/16.
  */
-public class SpanishGreeting extends HelloWorld {
+public class SpanishGreeting implements HelloWorld {
     String name = "mundo";
 
     public void greet(){
